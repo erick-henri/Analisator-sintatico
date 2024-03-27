@@ -1,0 +1,11 @@
+Class: SpicyPizza
+EquivalentTo:
+Pizza
+and (hasTopping some (hasSpiciness value Hot))
+
+
+
+Class: Regulartori
+
+EquivalentTo: ValueActivity
+and ((hasTopping some ( Caltor or CoreObject or PopOect)) or (hasConsumes some CounterOjbect))
